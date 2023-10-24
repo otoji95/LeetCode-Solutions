@@ -23,6 +23,7 @@ Below is a record of problems I've solved, including notes on my thought process
 
 ## Table Of Completed Problems : JavaScript
 
-| #   | Date     | Difficulty | Title                                                         | Solution                         | Runtime             | Memory                |
-| --- | -------- | ---------- | ------------------------------------------------------------- | -------------------------------- | ------------------- | --------------------- |
-| 1   | 10/24/23 | Easy       | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [Solution](./0-100-js/twoSum.js) | 135ms beats(13.59%) | 42.3 MB beats(64.67%) |
+| #   | Date     | Difficulty | Title                                                                             | Solution                                   | Runtime             | Memory                 |
+| --- | -------- | ---------- | --------------------------------------------------------------------------------- | ------------------------------------------ | ------------------- | ---------------------- |
+| 1   | 10/24/23 | Easy       | [Two Sum](https://leetcode.com/problems/two-sum/description/)                     | [Solution](./0-100-js/twoSum.js)           | 135ms beats(13.59%) | 42.3 MB beats(64.67%)  |
+| 9   | 10/24/23 | Easy       | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [Solution](./0-100-js/palindromeNumber.js) | 135ms beats(71.08%) | 50.98 MB beats(59.52%) |

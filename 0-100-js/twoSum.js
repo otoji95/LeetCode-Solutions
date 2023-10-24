@@ -11,5 +11,3 @@ const twoSum = function (nums, target) {
     }
   }
 };
-
-console.log(twoSum([2, 51, 5, 5], 10));
