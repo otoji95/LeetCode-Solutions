@@ -18,8 +18,9 @@ Completed in JavaScript(1)
 
 Below is a record of problems I've solved, including notes on my thought process, solutions, and the programming languages used. This table will be regularly updated with new content as I progress through my LeetCode journey.
 
-| #   | Date | Difficulty | Title | Solution | Runtime | Memory |
-| --- | ---- | ---------- | ----- | -------- | ------- | ------ |
+| #   | Date     | Difficulty | Title                                                                             | Solution                                        | Runtime           | Memory                 |
+| --- | -------- | ---------- | --------------------------------------------------------------------------------- | ----------------------------------------------- | ----------------- | ---------------------- |
+| 9   | 10/24/23 | Easy       | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [Solution](./0-100-python/palindrome_number.py) | 61ms beats(54.96) | 16.14 MB beats(80.57%) |
 
 ## Table Of Completed Problems : JavaScript
 
