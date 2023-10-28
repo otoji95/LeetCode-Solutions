@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome to my LeetCode Challenges repository! I've embarked on a journey to sharpen my problem-solving skills by diving into various coding problems. I commit to pushing myself by tackling at least one problem per day. This repository serves as a personal diary of my challenges, achievements, and learnings throughout this journey.
+Welcome to my LeetCode Challenges repository! I've embarked on a journey to sharpen my problem-solving skills by diving into various coding problems. I commit to pushing myself by tackling at least one problem per work day. On my weekends I will try my hand at completing a medium or hard challenge. This repository serves as a personal diary of my challenges, achievements, and learnings throughout this journey.
 
 ## Stats and Profile
 
@@ -11,10 +11,11 @@ Welcome to my LeetCode Challenges repository! I've embarked on a journey to shar
 | ~5,000,000 | 10/24/23 |
 | 4,730,121  | 10/25/23 |
 | 4,191,485  | 10/26/23 |
+| 3,538,569  | 10/27/23 |
 
 Completed in Python (3)
 
-Completed in JavaScript(4)
+Completed in JavaScript(6)
 
 ## Table Of Completed Problems : Python
 
@@ -34,3 +35,4 @@ Below is a record of problems I've solved, including notes on my thought process
 | 9    | 10/24/23 | Easy       | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)                                                                       | [Solution](./js/palindromeNumber.js)         | 135ms beats(71.08%) | 50.98 MB beats(59.52%) |
 | 2667 | 10/26/23 | Easy       | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Solution](./js/createHelloWorldFunction.js) | 47ms beats(70.54%)  | 41.75 MB beats(41.47%) |
 | 2620 | 10/27/23 | Easy       | [Counter](https://leetcode.com/problems/counter/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                         | [Solution](./js/counter.js)                  | 54ms beats(31.45%)  | 42.3 MB beats(11.36%)  |
+| 2704 | 10/28/23 | Easy       | [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/description/?envType=study-plan-v2&envId=30-days-of-javascript)                   | [Solution](./js/toBeOrNotToBe.js)            | 56ms beats(50.37%)  | 41.6 MB beats(72.7%)   |
