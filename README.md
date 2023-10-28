@@ -12,10 +12,17 @@ Welcome to my LeetCode Challenges repository! I've embarked on a journey to shar
 | 4,730,121  | 10/25/23 |
 | 4,191,485  | 10/26/23 |
 | 3,538,569  | 10/27/23 |
+| 3,313,201  | 10/28/23 |
 
 Completed in Python (3)
 
 Completed in JavaScript(6)
+
+## Completed Challenges
+
+- Easy: 8
+- Medium: 0
+- Hard: 0
 
 ## Table Of Completed Problems : Python
 
@@ -36,3 +43,4 @@ Below is a record of problems I've solved, including notes on my thought process
 | 2667 | 10/26/23 | Easy       | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Solution](./js/createHelloWorldFunction.js) | 47ms beats(70.54%)  | 41.75 MB beats(41.47%) |
 | 2620 | 10/27/23 | Easy       | [Counter](https://leetcode.com/problems/counter/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                         | [Solution](./js/counter.js)                  | 54ms beats(31.45%)  | 42.3 MB beats(11.36%)  |
 | 2704 | 10/28/23 | Easy       | [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/description/?envType=study-plan-v2&envId=30-days-of-javascript)                   | [Solution](./js/toBeOrNotToBe.js)            | 56ms beats(50.37%)  | 41.6 MB beats(72.7%)   |
+| 2621 | 10/29/23 | Easy       | [Sleep](https://leetcode.com/problems/sleep/description/)                                                                                               | [Solution](./js/sleep.js)                    | 49ms beats (74.87%) | 41.36 MB beats(83.89%) |
