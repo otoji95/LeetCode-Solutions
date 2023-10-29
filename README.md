@@ -14,7 +14,7 @@ Welcome to my LeetCode Challenges repository! I've embarked on a journey to shar
 | 3,538,569  | 10/27/23 |
 | 3,313,201  | 10/28/23 |
 
-Completed in Python (3)
+Completed in Python (4)
 
 Completed in JavaScript(8)
 
@@ -28,11 +28,12 @@ Completed in JavaScript(8)
 
 Below is a record of problems I've solved, including notes on my thought process, solutions, and the programming languages used. This table will be regularly updated with new content as I progress through my LeetCode journey.
 
-| #   | Date     | Difficulty | Title                                                                                 | Solution                                    | Runtime            | Memory                 |
-| --- | -------- | ---------- | ------------------------------------------------------------------------------------- | ------------------------------------------- | ------------------ | ---------------------- |
-| 9   | 10/24/23 | Easy       | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)     | [Solution](./python/palindrome_number.py)   | 61ms beats(54.96)  | 16.14 MB beats(80.57%) |
-| 58  | 10/25/23 | Easy       | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [Solution](./python/length_of_last_word.py) | 37ms beats(61.69%) | 16.3 MB beats(29.92%)  |
-| 66  | 10/26/23 | Easy       | [Plus One](https://leetcode.com/problems/plus-one/description/)                       | [Solution](./python/plus_one.py)            | 43ms beats(34.93%) | 16.26 MB beats(41%)    |
+| #   | Date     | Difficulty | Title                                                                                 | Solution                                    | Runtime                | Memory                 |
+| --- | -------- | ---------- | ------------------------------------------------------------------------------------- | ------------------------------------------- | ---------------------- | ---------------------- |
+| 9   | 10/24/23 | Easy       | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)     | [Solution](./python/palindrome_number.py)   | 61ms beats(54.96)      | 16.14 MB beats(80.57%) |
+| 58  | 10/25/23 | Easy       | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [Solution](./python/length_of_last_word.py) | 37ms beats(61.69%)     | 16.3 MB beats(29.92%)  |
+| 66  | 10/26/23 | Easy       | [Plus One](https://leetcode.com/problems/plus-one/description/)                       | [Solution](./python/plus_one.py)            | 43ms beats(34.93%)     | 16.26 MB beats(41%)    |
+| 1   | 10/29/23 | Easy       | [Two Sum](https://leetcode.com/problems/two-sum/description/)                         | [Solution](./python/two_sum.py)             | 4294ms 🤦‍♂️ beats(8.24%) | 17.13 MB beats(65.62%) |
 
 ## Table Of Completed Problems : JavaScript
 
