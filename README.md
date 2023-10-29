@@ -16,11 +16,11 @@ Welcome to my LeetCode Challenges repository! I've embarked on a journey to shar
 
 Completed in Python (3)
 
-Completed in JavaScript(6)
+Completed in JavaScript(8)
 
 ## Completed Challenges
 
-- Easy: 8
+- Easy: 9
 - Medium: 0
 - Hard: 0
 
@@ -44,3 +44,4 @@ Below is a record of problems I've solved, including notes on my thought process
 | 2620 | 10/27/23 | Easy       | [Counter](https://leetcode.com/problems/counter/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                         | [Solution](./js/counter.js)                  | 54ms beats(31.45%)  | 42.3 MB beats(11.36%)  |
 | 2704 | 10/28/23 | Easy       | [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/description/?envType=study-plan-v2&envId=30-days-of-javascript)                   | [Solution](./js/toBeOrNotToBe.js)            | 56ms beats(50.37%)  | 41.6 MB beats(72.7%)   |
 | 2621 | 10/29/23 | Easy       | [Sleep](https://leetcode.com/problems/sleep/description/)                                                                                               | [Solution](./js/sleep.js)                    | 49ms beats (74.87%) | 41.36 MB beats(83.89%) |
+| 2665 | 10/29/23 | Easy       | [Counter II](https://leetcode.com/problems/counter-ii/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                   | [Solution](./js/counter2.js)                 | 50ms beats(92.48%)  | 44.5 MB beats(65.69%)  |
