@@ -14,14 +14,15 @@ Welcome to my LeetCode Challenges repository! I've embarked on a journey to shar
 | 3,538,569  | 10/27/23 |
 | 3,313,201  | 10/28/23 |
 | 2,978,469  | 10/29/23 |
+| 2,728,023  | 10/30/23 |
 
 Completed in Python (5)
 
-Completed in JavaScript(8)
+Completed in JavaScript(9)
 
 ## Completed Challenges
 
-- Easy: 9
+- Easy: 10
 - Medium: 1
 - Hard: 0
 
@@ -39,16 +40,17 @@ Below is a record of problems I've solved, including notes on my thought process
 
 ## Table Of Completed Problems : JavaScript
 
-| #    | Date     | Difficulty | Title                                                                                                                                                   | Solution                                     | Runtime             | Memory                 |
-| ---- | -------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ------------------- | ---------------------- |
-| 1    | 10/24/23 | Easy       | [Two Sum](https://leetcode.com/problems/two-sum/description/)                                                                                           | [Solution](./js/twoSum.js)                   | 135ms beats(13.59%) | 42.3 MB beats(64.67%)  |
-| 9    | 10/24/23 | Easy       | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)                                                                       | [Solution](./js/palindromeNumber.js)         | 135ms beats(71.08%) | 50.98 MB beats(59.52%) |
-| 2667 | 10/26/23 | Easy       | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Solution](./js/createHelloWorldFunction.js) | 47ms beats(70.54%)  | 41.75 MB beats(41.47%) |
-| 2620 | 10/27/23 | Easy       | [Counter](https://leetcode.com/problems/counter/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                         | [Solution](./js/counter.js)                  | 54ms beats(31.45%)  | 42.3 MB beats(11.36%)  |
-| 2704 | 10/28/23 | Easy       | [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/description/?envType=study-plan-v2&envId=30-days-of-javascript)                   | [Solution](./js/toBeOrNotToBe.js)            | 56ms beats(50.37%)  | 41.6 MB beats(72.7%)   |
-| 2621 | 10/29/23 | Easy       | [Sleep](https://leetcode.com/problems/sleep/description/)                                                                                               | [Solution](./js/sleep.js)                    | 49ms beats(74.87%)  | 41.36 MB beats(83.89%) |
-| 2665 | 10/29/23 | Easy       | [Counter II](https://leetcode.com/problems/counter-ii/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                   | [Solution](./js/counter2.js)                 | 50ms beats(92.48%)  | 44.5 MB beats(65.69%)  |
-| 58   | 10/29/23 | Easy       | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                                                                               | [Solution](./js/lengthOfLastWord.js)         | 54ms beats(36.17%)  | 42.4 MB beats(11.9%)   |
+| #    | Date     | Difficulty | Title                                                                                                                                                                                 | Solution                                                 | Runtime             | Memory                 |
+| ---- | -------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ------------------- | ---------------------- |
+| 1    | 10/24/23 | Easy       | [Two Sum](https://leetcode.com/problems/two-sum/description/)                                                                                                                         | [Solution](./js/twoSum.js)                               | 135ms beats(13.59%) | 42.3 MB beats(64.67%)  |
+| 9    | 10/24/23 | Easy       | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)                                                                                                     | [Solution](./js/palindromeNumber.js)                     | 135ms beats(71.08%) | 50.98 MB beats(59.52%) |
+| 2667 | 10/26/23 | Easy       | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/description/?envType=study-plan-v2&envId=30-days-of-javascript)                               | [Solution](./js/createHelloWorldFunction.js)             | 47ms beats(70.54%)  | 41.75 MB beats(41.47%) |
+| 2620 | 10/27/23 | Easy       | [Counter](https://leetcode.com/problems/counter/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                                                       | [Solution](./js/counter.js)                              | 54ms beats(31.45%)  | 42.3 MB beats(11.36%)  |
+| 2704 | 10/28/23 | Easy       | [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                                 | [Solution](./js/toBeOrNotToBe.js)                        | 56ms beats(50.37%)  | 41.6 MB beats(72.7%)   |
+| 2621 | 10/29/23 | Easy       | [Sleep](https://leetcode.com/problems/sleep/description/)                                                                                                                             | [Solution](./js/sleep.js)                                | 49ms beats(74.87%)  | 41.36 MB beats(83.89%) |
+| 2665 | 10/29/23 | Easy       | [Counter II](https://leetcode.com/problems/counter-ii/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                                                 | [Solution](./js/counter2.js)                             | 50ms beats(92.48%)  | 44.5 MB beats(65.69%)  |
+| 58   | 10/29/23 | Easy       | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                                                                                                             | [Solution](./js/lengthOfLastWord.js)                     | 54ms beats(36.17%)  | 42.4 MB beats(11.9%)   |
+| 2635 | 10/30/23 | Easy       | [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Solution](./js/applyTransformOverEachElementInArray.js) | 47ms beats(92.56%)  | 41.9 MB beats(43.28%)  |
 
 ## Notes
 
