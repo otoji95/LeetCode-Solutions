@@ -13,27 +13,29 @@ Welcome to my LeetCode Challenges repository! I've embarked on a journey to shar
 | 4,191,485  | 10/26/23 |
 | 3,538,569  | 10/27/23 |
 | 3,313,201  | 10/28/23 |
+| 2,978,469  | 10/29/23 |
 
-Completed in Python (4)
+Completed in Python (5)
 
 Completed in JavaScript(8)
 
 ## Completed Challenges
 
 - Easy: 9
-- Medium: 0
+- Medium: 1
 - Hard: 0
 
 ## Table Of Completed Problems : Python
 
 Below is a record of problems I've solved, including notes on my thought process, solutions, and the programming languages used. This table will be regularly updated with new content as I progress through my LeetCode journey.
 
-| #   | Date     | Difficulty | Title                                                                                 | Solution                                    | Runtime                | Memory                 |
-| --- | -------- | ---------- | ------------------------------------------------------------------------------------- | ------------------------------------------- | ---------------------- | ---------------------- |
-| 9   | 10/24/23 | Easy       | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)     | [Solution](./python/palindrome_number.py)   | 61ms beats(54.96)      | 16.14 MB beats(80.57%) |
-| 58  | 10/25/23 | Easy       | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [Solution](./python/length_of_last_word.py) | 37ms beats(61.69%)     | 16.3 MB beats(29.92%)  |
-| 66  | 10/26/23 | Easy       | [Plus One](https://leetcode.com/problems/plus-one/description/)                       | [Solution](./python/plus_one.py)            | 43ms beats(34.93%)     | 16.26 MB beats(41%)    |
-| 1   | 10/29/23 | Easy       | [Two Sum](https://leetcode.com/problems/two-sum/description/)                         | [Solution](./python/two_sum.py)             | 4294ms 🤦‍♂️ beats(8.24%) | 17.13 MB beats(65.62%) |
+| #   | Date     | Difficulty | Title                                                                                                                                                              | Solution                                                               | Runtime                | Memory                 |
+| --- | -------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------- | ---------------------- | ---------------------- |
+| 9   | 10/24/23 | Easy       | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)                                                                                  | [Solution](./python/palindrome_number.py)                              | 61ms beats(54.96)      | 16.14 MB beats(80.57%) |
+| 58  | 10/25/23 | Easy       | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)                                                                              | [Solution](./python/length_of_last_word.py)                            | 37ms beats(61.69%)     | 16.3 MB beats(29.92%)  |
+| 66  | 10/26/23 | Easy       | [Plus One](https://leetcode.com/problems/plus-one/description/)                                                                                                    | [Solution](./python/plus_one.py)                                       | 43ms beats(34.93%)     | 16.26 MB beats(41%)    |
+| 1   | 10/29/23 | Easy       | [Two Sum](https://leetcode.com/problems/two-sum/description/)                                                                                                      | [Solution](./python/two_sum.py)                                        | 4294ms 🤦‍♂️ beats(8.24%) | 17.13 MB beats(65.62%) |
+| 3   | 10/29/23 | Medium     | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/?source=submission-noac) | [Solution](./python/longest_substring_without_repeating_characters.py) | 65ms beats(44.54%)     | 16.20 MB beats(85.61%) |
 
 ## Table Of Completed Problems : JavaScript
 
@@ -47,3 +49,7 @@ Below is a record of problems I've solved, including notes on my thought process
 | 2621 | 10/29/23 | Easy       | [Sleep](https://leetcode.com/problems/sleep/description/)                                                                                               | [Solution](./js/sleep.js)                    | 49ms beats(74.87%)  | 41.36 MB beats(83.89%) |
 | 2665 | 10/29/23 | Easy       | [Counter II](https://leetcode.com/problems/counter-ii/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                   | [Solution](./js/counter2.js)                 | 50ms beats(92.48%)  | 44.5 MB beats(65.69%)  |
 | 58   | 10/29/23 | Easy       | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                                                                               | [Solution](./js/lengthOfLastWord.js)         | 54ms beats(36.17%)  | 42.4 MB beats(11.9%)   |
+
+## Notes
+
+- Realizing I should learn algorithms and data structures. These are quite difficult. But FUN!
