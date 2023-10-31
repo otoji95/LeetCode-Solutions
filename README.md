@@ -18,11 +18,11 @@ Welcome to my LeetCode Challenges repository! I've embarked on a journey to shar
 
 Completed in Python (5)
 
-Completed in JavaScript(9)
+Completed in JavaScript(10)
 
 ## Completed Challenges
 
-- Easy: 10
+- Easy: 11
 - Medium: 1
 - Hard: 0
 
@@ -51,6 +51,7 @@ Below is a record of problems I've solved, including notes on my thought process
 | 2665 | 10/29/23 | Easy       | [Counter II](https://leetcode.com/problems/counter-ii/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                                                 | [Solution](./js/counter2.js)                             | 50ms beats(92.48%)  | 44.5 MB beats(65.69%)  |
 | 58   | 10/29/23 | Easy       | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                                                                                                             | [Solution](./js/lengthOfLastWord.js)                     | 54ms beats(36.17%)  | 42.4 MB beats(11.9%)   |
 | 2635 | 10/30/23 | Easy       | [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Solution](./js/applyTransformOverEachElementInArray.js) | 47ms beats(92.56%)  | 41.9 MB beats(43.28%)  |
+| 2634 | 10/31/23 | Easy       | [Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                 | [Solution](./js/filterElementsFromArray.js)              | 52ms beats(50.76%)  | 42.04 MB beats(34.48%) |
 
 ## Notes
 
