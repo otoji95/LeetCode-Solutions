@@ -23,7 +23,7 @@ Completed in JavaScript(10)
 
 ## Completed Challenges
 
-- Easy: 12
+- Easy: 13
 - Medium: 1
 - Hard: 0
 
@@ -54,6 +54,7 @@ Below is a record of problems I've solved, including notes on my thought process
 | 58   | 10/29/23 | Easy       | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                                                                                                             | [Solution](./js/lengthOfLastWord.js)                     | 54ms beats(36.17%)  | 42.4 MB beats(11.9%)   |
 | 2635 | 10/30/23 | Easy       | [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Solution](./js/applyTransformOverEachElementInArray.js) | 47ms beats(92.56%)  | 41.9 MB beats(43.28%)  |
 | 2634 | 10/31/23 | Easy       | [Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                 | [Solution](./js/filterElementsFromArray.js)              | 52ms beats(50.76%)  | 42.04 MB beats(34.48%) |
+| 2626 | 11/1/23  | Easy       | [Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/description/?envType=study-plan-v2&envId=30-days-of-javascript)                               | [Solution](./js/arrayReduceTransformation.js)            | 53ms beats(60.76%)  | 41.74 MB beats(95.04%) |
 
 ## Notes
 
