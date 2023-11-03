@@ -16,14 +16,16 @@ Welcome to my LeetCode Challenges repository! I've embarked on a journey to shar
 | 2,978,469  | 10/29/23 |
 | 2,728,023  | 10/30/23 |
 | 2,623,146  | 10/31/23 |
+| 2,441,797  | 11/1/23  |
+| 2,365,135  | 11/2/23  |
 
 Completed in Python (6)
 
-Completed in JavaScript(10)
+Completed in JavaScript(12)
 
 ## Completed Challenges
 
-- Easy: 13
+- Easy: 14
 - Medium: 1
 - Hard: 0
 
@@ -55,6 +57,7 @@ Below is a record of problems I've solved, including notes on my thought process
 | 2635 | 10/30/23 | Easy       | [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Solution](./js/applyTransformOverEachElementInArray.js) | 47ms beats(92.56%)  | 41.9 MB beats(43.28%)  |
 | 2634 | 10/31/23 | Easy       | [Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                 | [Solution](./js/filterElementsFromArray.js)              | 52ms beats(50.76%)  | 42.04 MB beats(34.48%) |
 | 2626 | 11/1/23  | Easy       | [Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/description/?envType=study-plan-v2&envId=30-days-of-javascript)                               | [Solution](./js/arrayReduceTransformation.js)            | 53ms beats(60.76%)  | 41.74 MB beats(95.04%) |
+| 2629 | 11/2/23  | Easy       | [Function Composition](https://leetcode.com/problems/function-composition/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                             | [Solution](./js/functionComposition.js)                  | 60ms beats(73.96%)  | 43.76 MB beats(12.02%) |
 
 ## Notes
 
