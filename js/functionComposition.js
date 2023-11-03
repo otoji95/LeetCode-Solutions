@@ -8,7 +8,3 @@ const compose = function (funcs) {
     };
   });
 };
-
-(functions = [(x) => 10 * x, (x) => 10 * x, (x) => 10 * x]), (x = 1);
-const y = compose(functions);
-console.log(y);

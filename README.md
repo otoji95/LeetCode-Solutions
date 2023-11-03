@@ -58,6 +58,7 @@ Below is a record of problems I've solved, including notes on my thought process
 | 2634 | 10/31/23 | Easy       | [Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                 | [Solution](./js/filterElementsFromArray.js)              | 52ms beats(50.76%)  | 42.04 MB beats(34.48%) |
 | 2626 | 11/1/23  | Easy       | [Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/description/?envType=study-plan-v2&envId=30-days-of-javascript)                               | [Solution](./js/arrayReduceTransformation.js)            | 53ms beats(60.76%)  | 41.74 MB beats(95.04%) |
 | 2629 | 11/2/23  | Easy       | [Function Composition](https://leetcode.com/problems/function-composition/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                             | [Solution](./js/functionComposition.js)                  | 60ms beats(73.96%)  | 43.76 MB beats(12.02%) |
+| 2703 | 11/3/23  | Easy       | [Return Length Of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/?envType=study-plan-v2&envId=30-days-of-javascript)                               | [Solution](./js/returnLengthOfArgumentsPassed.js)        | 39ms beats(98%)     | 42.1 MB beats(29.85%)  |
 
 ## Notes
 

@@ -8,6 +8,3 @@ def merge_alternately(word1, word2):
             x.append(word2[i])
         i += 1
     return "".join(x)
-
-
-print(merge_alternately("abcd", "pq"))

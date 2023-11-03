@@ -7,9 +7,3 @@ const filter = (arr, fn) => {
   }
   return x;
 };
-
-console.log(
-  filter([1, 10, 20, 30], function greaterThan10(n, i) {
-    return i === 0;
-  })
-);
