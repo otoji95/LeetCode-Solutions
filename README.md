@@ -18,14 +18,15 @@ Welcome to my LeetCode Challenges repository! I've embarked on a journey to shar
 | 2,623,146  | 10/31/23 |
 | 2,441,797  | 11/1/23  |
 | 2,365,135  | 11/2/23  |
+| 2,2227,789 | 11/4/23  |
 
 Completed in Python (6)
 
-Completed in JavaScript(12)
+Completed in JavaScript(14)
 
 ## Completed Challenges
 
-- Easy: 14
+- Easy: 15
 - Medium: 1
 - Hard: 0
 
@@ -59,6 +60,7 @@ Below is a record of problems I've solved, including notes on my thought process
 | 2626 | 11/1/23  | Easy       | [Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/description/?envType=study-plan-v2&envId=30-days-of-javascript)                               | [Solution](./js/arrayReduceTransformation.js)            | 53ms beats(60.76%)  | 41.74 MB beats(95.04%) |
 | 2629 | 11/2/23  | Easy       | [Function Composition](https://leetcode.com/problems/function-composition/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                             | [Solution](./js/functionComposition.js)                  | 60ms beats(73.96%)  | 43.76 MB beats(12.02%) |
 | 2703 | 11/3/23  | Easy       | [Return Length Of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/?envType=study-plan-v2&envId=30-days-of-javascript)                               | [Solution](./js/returnLengthOfArgumentsPassed.js)        | 39ms beats(98%)     | 42.1 MB beats(29.85%)  |
+| 2666 | 11/4/23  | Easy       | [Allow One Function Call](https://leetcode.com/problems/allow-one-function-call/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                       | [Solution](./js/allowOneFunctionCall.js)                 | 52s beats(53.31%)   | 40.90 MB beats(99.96%) |
 
 ## Notes
 
