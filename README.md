@@ -18,17 +18,17 @@ Welcome to my LeetCode Challenges repository! I've embarked on a journey to shar
 | 2,623,146  | 10/31/23 |
 | 2,441,797  | 11/1/23  |
 | 2,365,135  | 11/2/23  |
-| 2,2227,789 | 11/4/23  |
+| 2,108,952  | 11/4/23  |
 
-Completed in Python (6)
+Completed in Python (7)
 
 Completed in JavaScript(14)
 
 ## Completed Challenges
 
-- Easy: 15
+- Easy: 16
 - Medium: 1
-- Hard: 0
+- Hard: 1
 
 ## Table Of Completed Problems : Python
 
@@ -42,6 +42,7 @@ Below is a record of problems I've solved, including notes on my thought process
 | 1    | 10/29/23 | Easy       | [Two Sum](https://leetcode.com/problems/two-sum/description/)                                                                                                      | [Solution](./python/two_sum.py)                                        | 4294ms 🤦‍♂️ beats(8.24%) | 17.13 MB beats(65.62%) |
 | 3    | 10/29/23 | Medium     | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/?source=submission-noac) | [Solution](./python/longest_substring_without_repeating_characters.py) | 65ms beats(44.54%)     | 16.20 MB beats(85.61%) |
 | 1768 | 10/31/23 | Easy       | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/?envType=study-plan-v2&envId=leetcode-75)                          | [Solution](./python/merge_strings_alternately.py)                      | 37ms beats(68.89%)     | 16.29 MB beats(45.69%) |
+| 4    | 11/5/23  | Hard       | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)                                                                          | [Solution](./python/median_of_two_sorted_arrays.py)                    | 92ms beats(46.95%)     | 16.5 MB beats(44.68%)  |
 
 ## Table Of Completed Problems : JavaScript
 
