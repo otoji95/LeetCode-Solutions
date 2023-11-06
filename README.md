@@ -19,15 +19,16 @@ Welcome to my LeetCode Challenges repository! I've embarked on a journey to shar
 | 2,441,797  | 11/1/23  |
 | 2,365,135  | 11/2/23  |
 | 2,108,952  | 11/4/23  |
+| 2,108,952  | 11/5/23  |
 
 Completed in Python (7)
 
-Completed in JavaScript(14)
+Completed in JavaScript(15)
 
 ## Completed Challenges
 
 - Easy: 16
-- Medium: 1
+- Medium: 2
 - Hard: 1
 
 ## Table Of Completed Problems : Python
@@ -42,7 +43,7 @@ Below is a record of problems I've solved, including notes on my thought process
 | 1    | 10/29/23 | Easy       | [Two Sum](https://leetcode.com/problems/two-sum/description/)                                                                                                      | [Solution](./python/two_sum.py)                                        | 4294ms 🤦‍♂️ beats(8.24%) | 17.13 MB beats(65.62%) |
 | 3    | 10/29/23 | Medium     | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/?source=submission-noac) | [Solution](./python/longest_substring_without_repeating_characters.py) | 65ms beats(44.54%)     | 16.20 MB beats(85.61%) |
 | 1768 | 10/31/23 | Easy       | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/?envType=study-plan-v2&envId=leetcode-75)                          | [Solution](./python/merge_strings_alternately.py)                      | 37ms beats(68.89%)     | 16.29 MB beats(45.69%) |
-| 4    | 11/5/23  | Hard       | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)                                                                          | [Solution](./python/median_of_two_sorted_arrays.py)                    | 92ms beats(46.95%)     | 16.5 MB beats(44.68%)  |
+| 4    | 11/5/23  | Hard       | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)                                                                          | [Solution](./python/median_of_two_sorted_arrays.py)                    | 84ms beats(85.13%)     | 16.6 MB beats(44.68%)  |
 
 ## Table Of Completed Problems : JavaScript
 
@@ -62,6 +63,7 @@ Below is a record of problems I've solved, including notes on my thought process
 | 2629 | 11/2/23  | Easy       | [Function Composition](https://leetcode.com/problems/function-composition/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                             | [Solution](./js/functionComposition.js)                  | 60ms beats(73.96%)  | 43.76 MB beats(12.02%) |
 | 2703 | 11/3/23  | Easy       | [Return Length Of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/?envType=study-plan-v2&envId=30-days-of-javascript)                               | [Solution](./js/returnLengthOfArgumentsPassed.js)        | 39ms beats(98%)     | 42.1 MB beats(29.85%)  |
 | 2666 | 11/4/23  | Easy       | [Allow One Function Call](https://leetcode.com/problems/allow-one-function-call/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                       | [Solution](./js/allowOneFunctionCall.js)                 | 52s beats(53.31%)   | 40.90 MB beats(99.96%) |
+| 2623 | 11/5/23  | Medium     | [Memoize](https://leetcode.com/problems/memoize/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                                                       | [Solution](./js/memoize.js)                              | 379 ms beats(8.91%) | 106 MB beats(90.82%)   |
 
 ## Notes
 
