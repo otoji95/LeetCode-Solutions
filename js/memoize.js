@@ -10,12 +10,3 @@ function memoize(fn) {
     }
   };
 }
-
-let callCount = 0;
-const memoizedFn = memoize(function (a, b) {
-  callCount += 1;
-  return a + b;
-});
-memoizedFn(2, 3);
-memoizedFn(2, 3);
-console.log(callCount);
