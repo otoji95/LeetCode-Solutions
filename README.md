@@ -21,14 +21,15 @@ Welcome to my LeetCode Challenges repository! I've embarked on a journey to shar
 | 2,108,952  | 11/4/23  |
 | 2,108,952  | 11/5/23  |
 | 2,108,952  | 11/6/23  |
+| 1,957,374  | 11/7/23  |
 
 Completed in Python (9)
 
-Completed in JavaScript(17)
+Completed in JavaScript(18)
 
 ## Completed Challenges
 
-- Easy: 18
+- Easy: 19
 - Medium: 2
 - Hard: 1
 
@@ -69,6 +70,7 @@ Below is a record of problems I've solved, including notes on my thought process
 | 2623 | 11/5/23  | Medium     | [Memoize](https://leetcode.com/problems/memoize/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                                                       | [Solution](./js/memoize.js)                                                                                             | 379 ms beats(8.91%) | 106 MB beats(90.82%)   |
 | 1431 | 11/5/23  | Easy       | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/?envType=study-plan-v2&envId=leetcode-75)               | [Solution](./python/kids_with_the_greatest_number_of_candies.py) [Solution](./js/kidsWithTheGreatestNumberOfCandies.js) | 53ms beats(61.62%)  | 42.4 MB beats(40.77%)  |
 | 1768 | 11/6/23  | Easy       | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/?envType=study-plan-v2&envId=leetcode-75)                                             | [Solution](./js/mergeStringsAlternately.js)                                                                             | 54ms beats(44.22%)  | 41.9 MB beats(77.69%)  |
+| 2723 | 11/7/23  | Easy       | [Add Two Promises](https://leetcode.com/problems/add-two-promises/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                                     | [Solution](./js/addTwoPromises.js)                                                                                      | 50ms beats(92.8%)   | 42.34 MB beats(18.79%) |
 
 ## Notes
 
