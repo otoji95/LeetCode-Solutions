@@ -24,15 +24,16 @@ Welcome to my LeetCode Challenges repository! I've embarked on a journey to shar
 | 1,957,374  | 11/7/23  |
 | 1,915,322  | 11/8/23  |
 | 1/874/097  | 11/9/23  |
+| 1,835,437  | 11/10/23 |
 
 Completed in Python (9)
 
-Completed in JavaScript(20)
+Completed in JavaScript(21)
 
 ## Completed Challenges
 
 - Easy: 21
-- Medium: 2
+- Medium: 3
 - Hard: 1
 
 ## Table Of Completed Problems : Python
@@ -68,13 +69,14 @@ Below is a record of problems I've solved, including notes on my thought process
 | 2626 | 11/1/23  | Easy       | [Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/description/?envType=study-plan-v2&envId=30-days-of-javascript)                               | [Solution](./js/arrayReduceTransformation.js)                                                                           | 53ms beats(60.76%)  | 41.74 MB beats(95.04%) |
 | 2629 | 11/2/23  | Easy       | [Function Composition](https://leetcode.com/problems/function-composition/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                             | [Solution](./js/functionComposition.js)                                                                                 | 60ms beats(73.96%)  | 43.76 MB beats(12.02%) |
 | 2703 | 11/3/23  | Easy       | [Return Length Of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/?envType=study-plan-v2&envId=30-days-of-javascript)                               | [Solution](./js/returnLengthOfArgumentsPassed.js)                                                                       | 39ms beats(98%)     | 42.1 MB beats(29.85%)  |
-| 2666 | 11/4/23  | Easy       | [Allow One Function Call](https://leetcode.com/problems/allow-one-function-call/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                       | [Solution](./js/allowOneFunctionCall.js)                                                                                | 52s beats(53.31%)   | 40.90 MB beats(99.96%) |
+| 2666 | 11/4/23  | Easy       | [Allow One Function Call](https://leetcode.com/problems/allow-one-function-call/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                       | [Solution](./js/allowOneFunctionCall.js)                                                                                | 52ms beats(53.31%)  | 40.90 MB beats(99.96%) |
 | 2623 | 11/5/23  | Medium     | [Memoize](https://leetcode.com/problems/memoize/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                                                       | [Solution](./js/memoize.js)                                                                                             | 379 ms beats(8.91%) | 106 MB beats(90.82%)   |
 | 1431 | 11/5/23  | Easy       | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/?envType=study-plan-v2&envId=leetcode-75)               | [Solution](./python/kids_with_the_greatest_number_of_candies.py) [Solution](./js/kidsWithTheGreatestNumberOfCandies.js) | 53ms beats(61.62%)  | 42.4 MB beats(40.77%)  |
 | 1768 | 11/6/23  | Easy       | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/?envType=study-plan-v2&envId=leetcode-75)                                             | [Solution](./js/mergeStringsAlternately.js)                                                                             | 54ms beats(44.22%)  | 41.9 MB beats(77.69%)  |
 | 2723 | 11/7/23  | Easy       | [Add Two Promises](https://leetcode.com/problems/add-two-promises/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                                     | [Solution](./js/addTwoPromises.js)                                                                                      | 50ms beats(92.8%)   | 42.34 MB beats(18.79%) |
 | 2715 | 11/08/23 | Easy       | [Timeout Cancellation](https://leetcode.com/problems/timeout-cancellation/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                             | [Solution](./js/timeoutCancellation.js)                                                                                 | 75ms beats(6.56%)   | 41.49 MB beats(94.16%) |
 | 2725 | 11/08/2  | Easy       | [Interval Cancellation](https://leetcode.com/problems/interval-cancellation/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                           | [Solution](./js/intervalCancelllation.js)                                                                               | 63ms beats(54.82%)  | 41.96 MB beats(61.65%) |
+| 2637 | 11/10/23 | Medium     | [Promise Time Limit](https://leetcode.com/problems/promise-time-limit/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                                 | [Solution](./js/promiseTimeLimit.js)                                                                                    | 45ms beats(95.75%)  | 42.03 MB beats(33.96%) |
 
 ## Notes
 
