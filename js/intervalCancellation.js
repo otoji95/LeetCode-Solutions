@@ -1,7 +1,13 @@
 function cancellable(fn, args, t) {
+  fn(...args);
   function intervalFunction() {
-    fn(...args);
+    return fn(...args);
   }
 
-  let repeat = setInterval(intervalFunction, t);
+  let x = setInterval(intervalFunction, t);
+
+  function pause() {
+    clearInterval(x);
+  }
+  return pause;
 }
