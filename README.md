@@ -27,15 +27,16 @@ Welcome to my LeetCode Challenges repository! I've embarked on a journey to shar
 | 1,835,437  | 11/10/23 |
 | 1,798,403  | 11/11/23 |
 | 1,762,985  | 11/12/23 |
+| 1,729,413  | 11/13/23 |
 
 Completed in Python (9)
 
-Completed in JavaScript(23)
+Completed in JavaScript(24)
 
 ## Completed Challenges
 
 - Easy: 21
-- Medium: 5
+- Medium: 6
 - Hard: 1
 
 ## Table Of Completed Problems : Python
@@ -81,6 +82,7 @@ Below is a record of problems I've solved, including notes on my thought process
 | 2637 | 11/10/23 | Medium     | [Promise Time Limit](https://leetcode.com/problems/promise-time-limit/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                                 | [Solution](./js/promiseTimeLimit.js)                                                                                    | 45ms beats(95.75%)  | 42.03 MB beats(33.96%) |
 | 2622 | 11/11/23 | Medium     | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                           | [Solution](./js/cacheWithTimeLimit.js)                                                                                  | 52ms beats(78.08%)  | 42.01 MB beats(33.79%) |
 | 2627 | 11/12/23 | Medium     | [Debounce](https://leetcode.com/problems/debounce/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                                                     | [Solution](./js/debounce.js)                                                                                            | 61ms beats(28.05%)  | 41.62 MB beats(75.10%) |
+| 2721 | 11/13/23 | Medium     | [Execute Asynchronous Functions in Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Solution](./js/executeAsynchronousFunctionsInParallel.js)                                                              | 80ms beats(6.47%)   | 42.56 MB beats(26.05%) |
 
 ## Notes
 
