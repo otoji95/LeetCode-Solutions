@@ -30,14 +30,15 @@ Welcome to my LeetCode Challenges repository! I've embarked on a journey to shar
 | 1,729,413  | 11/13/23 |
 | 1,698,165  | 11/14/23 |
 | 1,667,986  | 11/15/23 |
+| 1,638,911  | 11/16/23 |
 
 Completed in Python (9)
 
-Completed in JavaScript(26)
+Completed in JavaScript(27)
 
 ## Completed Challenges
 
-- Easy: 23
+- Easy: 24
 - Medium: 6
 - Hard: 1
 
@@ -87,6 +88,7 @@ Below is a record of problems I've solved, including notes on my thought process
 | 2721 | 11/13/23 | Medium     | [Execute Asynchronous Functions in Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Solution](./js/executeAsynchronousFunctionsInParallel.js)                                                              | 80ms beats(6.47%)   | 42.56 MB beats(26.05%) |
 | 2727 | 11/14/23 | Easy       | [isObjectEmpty](https://leetcode.com/problems/is-object-empty/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                                         | [Soultion](./js/isObjectEmpty.js)                                                                                       | 46ms beats(84.37%)  | 43.19 MB beats(15.55%) |
 | 2677 | 11/15/23 | Easy       | [Chunk Array](https://leetcode.com/problems/chunk-array/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                                               | [Solution](./js/chunkArray.js)                                                                                          | 57ms beats(44.79%)  | 44.31 MB beats(57.35%) |
+| 2619 | 11/16/23 | Easy       | [Array Prototype Last](https://leetcode.com/problems/array-prototype-last/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                             | [Solution](./js/arrayPrototypeLast.js)                                                                                  | 39ms beats(96.66%)  | 41.66 MB beats(57.19%) |
 
 ## Notes
 
