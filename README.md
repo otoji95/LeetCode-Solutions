@@ -31,15 +31,16 @@ Welcome to my LeetCode Challenges repository! I've embarked on a journey to shar
 | 1,698,165  | 11/14/23 |
 | 1,667,986  | 11/15/23 |
 | 1,638,911  | 11/16/23 |
+| 1,611,288  | 11/18/23 |
 
 Completed in Python (9)
 
-Completed in JavaScript(27)
+Completed in JavaScript(28)
 
 ## Completed Challenges
 
 - Easy: 24
-- Medium: 6
+- Medium: 7
 - Hard: 1
 
 ## Table Of Completed Problems : Python
@@ -86,10 +87,7 @@ Below is a record of problems I've solved, including notes on my thought process
 | 2622 | 11/11/23 | Medium     | [Cache With Time Limit](https://leetcode.com/problems/cache-with-time-limit/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                           | [Solution](./js/cacheWithTimeLimit.js)                                                                                  | 52ms beats(78.08%)  | 42.01 MB beats(33.79%) |
 | 2627 | 11/12/23 | Medium     | [Debounce](https://leetcode.com/problems/debounce/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                                                     | [Solution](./js/debounce.js)                                                                                            | 61ms beats(28.05%)  | 41.62 MB beats(75.10%) |
 | 2721 | 11/13/23 | Medium     | [Execute Asynchronous Functions in Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Solution](./js/executeAsynchronousFunctionsInParallel.js)                                                              | 80ms beats(6.47%)   | 42.56 MB beats(26.05%) |
-| 2727 | 11/14/23 | Easy       | [isObjectEmpty](https://leetcode.com/problems/is-object-empty/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                                         | [Soultion](./js/isObjectEmpty.js)                                                                                       | 46ms beats(84.37%)  | 43.19 MB beats(15.55%) |
+| 2727 | 11/14/23 | Easy       | [isObjectEmpty](https://leetcode.com/problems/is-object-empty/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                                         | [Solution](./js/isObjectEmpty.js)                                                                                       | 46ms beats(84.37%)  | 43.19 MB beats(15.55%) |
 | 2677 | 11/15/23 | Easy       | [Chunk Array](https://leetcode.com/problems/chunk-array/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                                               | [Solution](./js/chunkArray.js)                                                                                          | 57ms beats(44.79%)  | 44.31 MB beats(57.35%) |
 | 2619 | 11/16/23 | Easy       | [Array Prototype Last](https://leetcode.com/problems/array-prototype-last/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                             | [Solution](./js/arrayPrototypeLast.js)                                                                                  | 39ms beats(96.66%)  | 41.66 MB beats(57.19%) |
-
-## Notes
-
-- Realizing I should learn algorithms and data structures. These are quite difficult. But FUN!
+| 2631 | 11/18/23 | Medium     | [Group By](https://leetcode.com/problems/group-by/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                                                     | [Solution](./js/groupBy.js)                                                                                             | 105ms beats(96.27%) | 60.96 MB beats(85.83%) |
