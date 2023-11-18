@@ -10,10 +10,3 @@ Array.prototype.groupBy = function (fn) {
   }
   return groups;
 };
-
-//
-console.log(
-  [{ id: "1" }, { id: "1" }, { id: "2" }].groupBy(function (item) {
-    return item.id;
-  })
-);

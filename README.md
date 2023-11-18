@@ -35,11 +35,11 @@ Welcome to my LeetCode Challenges repository! I've embarked on a journey to shar
 
 Completed in Python (9)
 
-Completed in JavaScript(28)
+Completed in JavaScript(29)
 
 ## Completed Challenges
 
-- Easy: 24
+- Easy: 25
 - Medium: 7
 - Hard: 1
 
@@ -91,3 +91,4 @@ Below is a record of problems I've solved, including notes on my thought process
 | 2677 | 11/15/23 | Easy       | [Chunk Array](https://leetcode.com/problems/chunk-array/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                                               | [Solution](./js/chunkArray.js)                                                                                          | 57ms beats(44.79%)  | 44.31 MB beats(57.35%) |
 | 2619 | 11/16/23 | Easy       | [Array Prototype Last](https://leetcode.com/problems/array-prototype-last/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                             | [Solution](./js/arrayPrototypeLast.js)                                                                                  | 39ms beats(96.66%)  | 41.66 MB beats(57.19%) |
 | 2631 | 11/18/23 | Medium     | [Group By](https://leetcode.com/problems/group-by/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                                                     | [Solution](./js/groupBy.js)                                                                                             | 105ms beats(96.27%) | 60.96 MB beats(85.83%) |
+| 2724 | 11/18/23 | Easy       | [Sort By](https://leetcode.com/problems/sort-by/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                                                       | [Solution](./js/sortBy.js)                                                                                              | 134ms beats(28.58%) | 56.68 MB beats(38.73%) |

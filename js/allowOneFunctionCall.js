@@ -7,8 +7,3 @@ function once(fn) {
     }
   };
 }
-
-let func = (a, b, c) => a + b + c;
-let x = once(func);
-x(1, 2, 3);
-x(2, 3, 6);
