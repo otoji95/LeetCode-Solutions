@@ -36,12 +36,12 @@ Welcome to my LeetCode Challenges repository! I've embarked on a journey to shar
 
 Completed in Python (9)
 
-Completed in JavaScript(30)
+Completed in JavaScript(31)
 
 ## Completed Challenges
 
 - Easy: 25
-- Medium: 8
+- Medium: 9
 - Hard: 1
 
 ## Table Of Completed Problems : Python
@@ -94,3 +94,4 @@ Below is a record of problems I've solved, including notes on my thought process
 | 2631 | 11/18/23 | Medium     | [Group By](https://leetcode.com/problems/group-by/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                                                     | [Solution](./js/groupBy.js)                                                                                             | 105ms beats(96.27%) | 60.96 MB beats(85.83%)  |
 | 2724 | 11/18/23 | Easy       | [Sort By](https://leetcode.com/problems/sort-by/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                                                       | [Solution](./js/sortBy.js)                                                                                              | 134ms beats(28.58%) | 56.68 MB beats(38.73%)  |
 | 2722 | 11/20/23 | Medium     | [Join Two Arrays By ID](https://leetcode.com/problems/join-two-arrays-by-id/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                           | [Solution](./js/joinTwoArraysByID.js)                                                                                   | 687ms beats(5.02%)  | 120.47 MB beats(26.17%) |
+| 2625 | 11/20/23 | Medium     | [Flatten Deeply Nested Array](https://leetcode.com/problems/flatten-deeply-nested-array/description/?envType=study-plan-v2&envId=30-days-of-javascript)                               | [Solution](./js/flattenDeeplyNestedArray.js)                                                                            | 96ms beats(70.94%)  | 73.50 MB beats(59.70%)  |
