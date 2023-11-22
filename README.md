@@ -33,15 +33,16 @@ Welcome to my LeetCode Challenges repository! I've embarked on a journey to shar
 | 1,638,911  | 11/16/23 |
 | 1,611,288  | 11/18/23 |
 | 1,558,383  | 11/20/23 |
+| 1,508,171  | 11/21/23 |
 
 Completed in Python (9)
 
-Completed in JavaScript(31)
+Completed in JavaScript(32)
 
 ## Completed Challenges
 
 - Easy: 25
-- Medium: 9
+- Medium: 10
 - Hard: 1
 
 ## Table Of Completed Problems : Python
@@ -95,3 +96,4 @@ Below is a record of problems I've solved, including notes on my thought process
 | 2724 | 11/18/23 | Easy       | [Sort By](https://leetcode.com/problems/sort-by/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                                                       | [Solution](./js/sortBy.js)                                                                                              | 134ms beats(28.58%) | 56.68 MB beats(38.73%)  |
 | 2722 | 11/20/23 | Medium     | [Join Two Arrays By ID](https://leetcode.com/problems/join-two-arrays-by-id/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                           | [Solution](./js/joinTwoArraysByID.js)                                                                                   | 687ms beats(5.02%)  | 120.47 MB beats(26.17%) |
 | 2625 | 11/20/23 | Medium     | [Flatten Deeply Nested Array](https://leetcode.com/problems/flatten-deeply-nested-array/description/?envType=study-plan-v2&envId=30-days-of-javascript)                               | [Solution](./js/flattenDeeplyNestedArray.js)                                                                            | 96ms beats(70.94%)  | 73.50 MB beats(59.70%)  |
+| 2705 | 11/21/23 | Medium     | [Compact Object](https://leetcode.com/problems/compact-object/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                                         | [Solution](./js/compactObject.js)                                                                                       | 86ms beats(57.50%)  | 54.61 MB beats(27.61%)  |
