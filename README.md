@@ -34,14 +34,15 @@ Welcome to my LeetCode Challenges repository! I've embarked on a journey to shar
 | 1,611,288  | 11/18/23 |
 | 1,558,383  | 11/20/23 |
 | 1,508,171  | 11/21/23 |
+| 1,484,893  | 11/23/23 |
 
 Completed in Python (9)
 
-Completed in JavaScript(32)
+Completed in JavaScript(33)
 
 ## Completed Challenges
 
-- Easy: 25
+- Easy: 26
 - Medium: 10
 - Hard: 1
 
@@ -97,3 +98,4 @@ Below is a record of problems I've solved, including notes on my thought process
 | 2722 | 11/20/23 | Medium     | [Join Two Arrays By ID](https://leetcode.com/problems/join-two-arrays-by-id/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                           | [Solution](./js/joinTwoArraysByID.js)                                                                                   | 687ms beats(5.02%)  | 120.47 MB beats(26.17%) |
 | 2625 | 11/20/23 | Medium     | [Flatten Deeply Nested Array](https://leetcode.com/problems/flatten-deeply-nested-array/description/?envType=study-plan-v2&envId=30-days-of-javascript)                               | [Solution](./js/flattenDeeplyNestedArray.js)                                                                            | 96ms beats(70.94%)  | 73.50 MB beats(59.70%)  |
 | 2705 | 11/21/23 | Medium     | [Compact Object](https://leetcode.com/problems/compact-object/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                                         | [Solution](./js/compactObject.js)                                                                                       | 86ms beats(57.50%)  | 54.61 MB beats(27.61%)  |
+| 2695 | 11/23/23 | Easy       | [Array Wrapper](https://leetcode.com/problems/array-wrapper/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                                           | [Solution](./js/arrayWrapper.js)                                                                                        | 49ms beats(75.59%)  | 44.59 MB beats(5.84%)   |
