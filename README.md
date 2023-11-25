@@ -35,14 +35,15 @@ Welcome to my LeetCode Challenges repository! I've embarked on a journey to shar
 | 1,558,383  | 11/20/23 |
 | 1,508,171  | 11/21/23 |
 | 1,484,893  | 11/23/23 |
+| 1,463,369  | 11/25/23 |
 
 Completed in Python (9)
 
-Completed in JavaScript(33)
+Completed in JavaScript(34)
 
 ## Completed Challenges
 
-- Easy: 26
+- Easy: 27
 - Medium: 10
 - Hard: 1
 
@@ -99,3 +100,4 @@ Below is a record of problems I've solved, including notes on my thought process
 | 2625 | 11/20/23 | Medium     | [Flatten Deeply Nested Array](https://leetcode.com/problems/flatten-deeply-nested-array/description/?envType=study-plan-v2&envId=30-days-of-javascript)                               | [Solution](./js/flattenDeeplyNestedArray.js)                                                                            | 96ms beats(70.94%)  | 73.50 MB beats(59.70%)  |
 | 2705 | 11/21/23 | Medium     | [Compact Object](https://leetcode.com/problems/compact-object/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                                         | [Solution](./js/compactObject.js)                                                                                       | 86ms beats(57.50%)  | 54.61 MB beats(27.61%)  |
 | 2695 | 11/23/23 | Easy       | [Array Wrapper](https://leetcode.com/problems/array-wrapper/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                                           | [Solution](./js/arrayWrapper.js)                                                                                        | 49ms beats(75.59%)  | 44.59 MB beats(5.84%)   |
+| 2726 | 11/24/23 | Easy       | [Calculator with Method Chaining](https://leetcode.com/problems/calculator-with-method-chaining/description/?envType=study-plan-v2&envId=30-days-of-javascript)                       | [Solution](./js/calculatorWithMethodChaining.js)                                                                        | 38ms beats(97.95%)  | 42.33 MB beats(7.44%)   |
