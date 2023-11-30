@@ -36,15 +36,16 @@ Welcome to my LeetCode Challenges repository! I've embarked on a journey to shar
 | 1,508,171  | 11/21/23 |
 | 1,484,893  | 11/23/23 |
 | 1,463,369  | 11/25/23 |
+| 1,445,911  | 11/29/23 |
 
-Completed in Python (9)
+Completed in Python (12)
 
 Completed in JavaScript(34)
 
 ## Completed Challenges
 
-- Easy: 27
-- Medium: 10
+- Easy: 28
+- Medium: 12
 - Hard: 1
 
 ## Table Of Completed Problems : Python
@@ -63,6 +64,8 @@ Below is a record of problems I've solved, including notes on my thought process
 | 1431 | 11/5/23  | Easy       | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/?envType=study-plan-v2&envId=leetcode-75) | [Solution](./python/kids_with_the_greatest_number_of_candies.py)       | 38ms beats(90.43%)     | 16.2 MB beats(40.56%)  |
 | 605  | 11/6/23  | Easy       | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/?envType=study-plan-v2&envId=leetcode-75)                                               | [Solution](./python/can_place_flower.py)                               | 151ms beats(50.46%)    | 16.53 MB beats(92.74%) |
 | 1492 | 11/29/23 | Medium     | [The kth Factor of N](https://leetcode.com/problems/the-kth-factor-of-n/description/?envType=study-plan-v2&envId=amazon-spring-23-high-frequency)                       | [Solution](./python/the_kth_factor_of_n.py)                            | 40ms beats(53.12%)     | 16.2 MB beats(43.98%)  |
+| 2405 | 11/29/23 | Medium     | [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/description/?envType=study-plan-v2&envId=amazon-spring-23-high-frequency)       | [Solution](./python/optimal_partition_of_string.py)                    | 89ms beats(88.09%)     | 17.27 MB beats(39.59%) |
+| 1051 | 11/29/23 | Easy       | [Height Checker](https://leetcode.com/problems/height-checker/description/)                                                                                             | [Solution](./python/height_checker.py)                                 | 44ms beats(51.18%)     | 16.3 MB beats(39.81%)  |
 
 ## Table Of Completed Problems : JavaScript
 
