@@ -62,6 +62,7 @@ Below is a record of problems I've solved, including notes on my thought process
 | 4    | 11/5/23  | Hard       | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)                                                                               | [Solution](./python/median_of_two_sorted_arrays.py)                    | 84ms beats(85.13%)     | 16.6 MB beats(44.68%)  |
 | 1431 | 11/5/23  | Easy       | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/?envType=study-plan-v2&envId=leetcode-75) | [Solution](./python/kids_with_the_greatest_number_of_candies.py)       | 38ms beats(90.43%)     | 16.2 MB beats(40.56%)  |
 | 605  | 11/6/23  | Easy       | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/?envType=study-plan-v2&envId=leetcode-75)                                               | [Solution](./python/can_place_flower.py)                               | 151ms beats(50.46%)    | 16.53 MB beats(92.74%) |
+| 1492 | 11/29/23 | Medium     | [The kth Factor of N](https://leetcode.com/problems/the-kth-factor-of-n/description/?envType=study-plan-v2&envId=amazon-spring-23-high-frequency)                       | [Solution](./python/the_kth_factor_of_n.py)                            | 40ms beats(53.12%)     | 16.2 MB beats(43.98%)  |
 
 ## Table Of Completed Problems : JavaScript
 
