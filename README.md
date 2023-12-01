@@ -66,6 +66,7 @@ Below is a record of problems I've solved, including notes on my thought process
 | 1492 | 11/29/23 | Medium     | [The kth Factor of N](https://leetcode.com/problems/the-kth-factor-of-n/description/?envType=study-plan-v2&envId=amazon-spring-23-high-frequency)                       | [Solution](./python/the_kth_factor_of_n.py)                            | 40ms beats(53.12%)     | 16.2 MB beats(43.98%)  |
 | 2405 | 11/29/23 | Medium     | [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/description/?envType=study-plan-v2&envId=amazon-spring-23-high-frequency)       | [Solution](./python/optimal_partition_of_string.py)                    | 89ms beats(88.09%)     | 17.27 MB beats(39.59%) |
 | 1051 | 11/29/23 | Easy       | [Height Checker](https://leetcode.com/problems/height-checker/description/)                                                                                             | [Solution](./python/height_checker.py)                                 | 44ms beats(51.18%)     | 16.3 MB beats(39.81%)  |
+| 1662 | 11/30/23 | Easy       | [Check if Two Strings Are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/description/?envType=daily-question&envId=2023-12-01)     | [Solution](./python/check_if_two_strings_are_equivalent.py)            | 40ms beats(54.43%)     | 16.5 MB beats(28.2%)   |
 
 ## Table Of Completed Problems : JavaScript
 
