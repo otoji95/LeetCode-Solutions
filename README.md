@@ -37,14 +37,15 @@ Welcome to my LeetCode Challenges repository! I've embarked on a journey to shar
 | 1,484,893  | 11/23/23 |
 | 1,463,369  | 11/25/23 |
 | 1,445,911  | 11/29/23 |
+| 1,383,186  | 11/30/23 |
 
-Completed in Python (12)
+Completed in Python (15)
 
 Completed in JavaScript(34)
 
 ## Completed Challenges
 
-- Easy: 28
+- Easy: 31
 - Medium: 12
 - Hard: 1
 
@@ -67,6 +68,8 @@ Below is a record of problems I've solved, including notes on my thought process
 | 2405 | 11/29/23 | Medium     | [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/description/?envType=study-plan-v2&envId=amazon-spring-23-high-frequency)       | [Solution](./python/optimal_partition_of_string.py)                    | 89ms beats(88.09%)     | 17.27 MB beats(39.59%) |
 | 1051 | 11/29/23 | Easy       | [Height Checker](https://leetcode.com/problems/height-checker/description/)                                                                                             | [Solution](./python/height_checker.py)                                 | 44ms beats(51.18%)     | 16.3 MB beats(39.81%)  |
 | 1662 | 11/30/23 | Easy       | [Check if Two Strings Are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/description/?envType=daily-question&envId=2023-12-01)     | [Solution](./python/check_if_two_strings_are_equivalent.py)            | 40ms beats(54.43%)     | 16.5 MB beats(28.2%)   |
+| 88   | 11/30/23 | Easy       | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150)                                       | [Solution](./python/merge_sorted_array.py)                             | 34ms beats(96.78%)     | 16.36 MB beats(31.40%) |
+| 169  | 11/30/23 | Easy       | [Majority Element](https://leetcode.com/problems/majority-element/description/?envType=study-plan-v2&envId=top-interview-150)                                           | [Solution](./python/majority_element.py)                               | 157ms beats(28.62%)    | 17.93 MB beats(8.91%)  |
 
 ## Table Of Completed Problems : JavaScript
 
