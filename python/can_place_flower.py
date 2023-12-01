@@ -22,11 +22,3 @@ def can_place_flower(flowerbed, n):
 
     print(count)
     return count >= n
-
-
-print(
-    can_place_flower([0, 0], 1)
-)  # Should return True as there is space for one flower
-
-
-print(can_place_flower([0, 0], 1))
