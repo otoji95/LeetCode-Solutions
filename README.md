@@ -38,14 +38,15 @@ Welcome to my LeetCode Challenges repository! I've embarked on a journey to shar
 | 1,463,369  | 11/25/23 |
 | 1,445,911  | 11/29/23 |
 | 1,383,186  | 11/30/23 |
+| 1,328,878  | 12/04/23 |
 
-Completed in Python (15)
+Completed in Python (16)
 
 Completed in JavaScript(34)
 
 ## Completed Challenges
 
-- Easy: 31
+- Easy: 32
 - Medium: 12
 - Hard: 1
 
@@ -70,6 +71,7 @@ Below is a record of problems I've solved, including notes on my thought process
 | 1662 | 11/30/23 | Easy       | [Check if Two Strings Are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/description/?envType=daily-question&envId=2023-12-01)     | [Solution](./python/check_if_two_strings_are_equivalent.py)            | 40ms beats(54.43%)     | 16.5 MB beats(28.2%)   |
 | 88   | 11/30/23 | Easy       | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150)                                       | [Solution](./python/merge_sorted_array.py)                             | 34ms beats(96.78%)     | 16.36 MB beats(31.40%) |
 | 169  | 11/30/23 | Easy       | [Majority Element](https://leetcode.com/problems/majority-element/description/?envType=study-plan-v2&envId=top-interview-150)                                           | [Solution](./python/majority_element.py)                               | 157ms beats(28.62%)    | 17.93 MB beats(8.91%)  |
+| 1688 | 12/04/23 | Easy       | [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/description/?envType=daily-question&envId=2023-12-05)                     | [Solution](./python/count_of_matches_in_tournament.py)                 | 25ms beats(98.96%)     | 16.29 MB beats(35.39%) |
 
 ## Table Of Completed Problems : JavaScript
 
