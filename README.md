@@ -72,6 +72,7 @@ Below is a record of problems I've solved, including notes on my thought process
 | 88   | 11/30/23 | Easy       | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150)                                       | [Solution](./python/merge_sorted_array.py)                             | 34ms beats(96.78%)     | 16.36 MB beats(31.40%) |
 | 169  | 11/30/23 | Easy       | [Majority Element](https://leetcode.com/problems/majority-element/description/?envType=study-plan-v2&envId=top-interview-150)                                           | [Solution](./python/majority_element.py)                               | 157ms beats(28.62%)    | 17.93 MB beats(8.91%)  |
 | 1688 | 12/04/23 | Easy       | [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/description/?envType=daily-question&envId=2023-12-05)                     | [Solution](./python/count_of_matches_in_tournament.py)                 | 25ms beats(98.96%)     | 16.29 MB beats(35.39%) |
+| 389  | 12/05/23 | Easy       | [Find the Difference](https://leetcode.com/problems/find-the-difference/description/?envType=study-plan-v2&envId=programming-skills)                                    | [Solution](./python/find_the_difference.py)                            | 47ms beats(26.20%)     | 16.36 MB beats(29.36%) |
 
 ## Table Of Completed Problems : JavaScript
 
