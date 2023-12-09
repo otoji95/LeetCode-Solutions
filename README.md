@@ -41,14 +41,15 @@ Welcome to my LeetCode Challenges repository! I've embarked on a journey to shar
 | 1,328,878  | 12/04/23 |
 | 1,294,763  | 12/06/23 |
 | 1,278,415  | 12/07/23 |
+| 1,262,900  | 12/08/23 |
 
-Completed in Python (19)
+Completed in Python (20)
 
 Completed in JavaScript(34)
 
 ## Completed Challenges
 
-- Easy: 35
+- Easy: 36
 - Medium: 12
 - Hard: 1
 
@@ -77,6 +78,7 @@ Below is a record of problems I've solved, including notes on my thought process
 | 389  | 12/05/23 | Easy       | [Find the Difference](https://leetcode.com/problems/find-the-difference/description/?envType=study-plan-v2&envId=programming-skills)                                                               | [Solution](./python/find_the_difference.py)                                   | 47ms beats(26.20%)     | 16.36 MB beats(29.36%) |
 | 28   | 12/06/23 | Easy       | [Find the Index of the First Occurrence of a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/?envType=study-plan-v2&envId=programming-skills) | [Solution](./python/find_the_index_of_the_first_occurrence_of_a_string.py.py) | 44ms beats(17.76%)     | 16.36 MB beats(14.71%) |
 | 217  | 12/07/23 | Easy       | [Contains Duplicates](https://leetcode.com/problems/contains-duplicate/description/)                                                                                                               | [Solution](./python/contains_duplicates.py)                                   | 489ms beats(27.45%)    | 31.08 MB beats(31.08%) |
+| 412  | 12/09/23 | Easy       | [Fizz-Buzz](https://leetcode.com/problems/fizz-buzz/)                                                                                                                                              | [Solution](./python/fizz_buzz.py)                                             | 26ms beats(27.85%)     | 14 MB beats(40.54%)    |
 
 ## Table Of Completed Problems : JavaScript
 
