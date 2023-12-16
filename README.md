@@ -42,14 +42,15 @@ Welcome to my LeetCode Challenges repository! I've embarked on a journey to shar
 | 1,294,763  | 12/06/23 |
 | 1,278,415  | 12/07/23 |
 | 1,262,900  | 12/08/23 |
+| 1,253,410  | 12/15/23 |
 
 Completed in Python (20)
 
-Completed in JavaScript(34)
+Completed in JavaScript(35)
 
 ## Completed Challenges
 
-- Easy: 36
+- Easy: 37
 - Medium: 12
 - Hard: 1
 
@@ -118,3 +119,4 @@ Below is a record of problems I've solved, including notes on my thought process
 | 2705 | 11/21/23 | Medium     | [Compact Object](https://leetcode.com/problems/compact-object/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                                         | [Solution](./js/compactObject.js)                                                                                       | 86ms beats(57.50%)  | 54.61 MB beats(27.61%)  |
 | 2695 | 11/23/23 | Easy       | [Array Wrapper](https://leetcode.com/problems/array-wrapper/description/?envType=study-plan-v2&envId=30-days-of-javascript)                                                           | [Solution](./js/arrayWrapper.js)                                                                                        | 49ms beats(75.59%)  | 44.59 MB beats(5.84%)   |
 | 2726 | 11/24/23 | Easy       | [Calculator with Method Chaining](https://leetcode.com/problems/calculator-with-method-chaining/description/?envType=study-plan-v2&envId=30-days-of-javascript)                       | [Solution](./js/calculatorWithMethodChaining.js)                                                                        | 38ms beats(97.95%)  | 42.33 MB beats(7.44%)   |
+| 242  | 12/15/23 | Easy       | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/?envType=daily-question&envId=2023-12-16)                                                                     | [Solution](./js/isAnagram.js)                                                                                           | 92ms beats(12.25%)  | 46 MB beats(39.33%)     |
