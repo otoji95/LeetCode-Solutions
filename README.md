@@ -83,6 +83,7 @@ Below is a record of problems I've solved, including notes on my thought process
 | 412  | 12/09/23 | Easy       | [Fizz-Buzz](https://leetcode.com/problems/fizz-buzz/)                                                                                                                                              | [Solution](./python/fizz_buzz.py)                                             | 26ms beats(27.85%)     | 14 MB beats(40.54%)    |
 | 242  | 12/15/23 | Easy       | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)                                                                                                                          | [Solution](./python/valid_anagram.py)                                         | 51ms beats(71.87%)     | 16.80 MB beats(75.11%) |
 | 1913 | 12/17/23 | Easy       | [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/description/?envType=daily-question&envId=2023-12-18)                    | [Solution](./python/maximum_product_difference_between_two_pairs.py)          | 154ms beats(69.98%)    | 18 MB beats(8.58%)     |
+| 1496 | 12/23/23 | Easy       | [Path Crossing](https://leetcode.com/problems/path-crossing/submissions/?envType=daily-question&envId=2023-12-23)                                                                                  | [Solution](./python/path_crossing.py)                                         | 42 ms beats(30.80%)    | 17.48% beats(5.63%)    |
 
 ## Table Of Completed Problems : JavaScript
 
