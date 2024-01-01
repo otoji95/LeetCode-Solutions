@@ -43,15 +43,17 @@ Welcome to my LeetCode Challenges repository! I've embarked on a journey to shar
 | 1,278,415  | 12/07/23 |
 | 1,262,900  | 12/08/23 |
 | 1,253,410  | 12/15/23 |
-| 1,238,438  | 12/27/23 |
+| 1,238,438  | 12/17/23 |
+| 1,213,663  | 12/23/23 |
+| 1,191,892  | 01/01/24 |
 
-Completed in Python (22)
+Completed in Python (23)
 
-Completed in JavaScript(36)
+Completed in JavaScript(39)
 
 ## Completed Challenges
 
-- Easy: 38
+- Easy: 42
 - Medium: 12
 - Hard: 1
 
@@ -126,3 +128,4 @@ Below is a record of problems I've solved, including notes on my thought process
 | 242  | 12/15/23 | Easy       | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/?envType=daily-question&envId=2023-12-16)                                                                     | [Solution](./js/validAnagram.js)                                                                                        | 77ms beats(43.20%)  | 46 MB beats(56.58%)     |
 | 1913 | 12/27/23 | Easy       | [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/description/?envType=daily-question&envId=2023-12-18)       | [Solution](./js/maximumProductBetweenTwoPairs.js)                                                                       | 86ms beats(18.73%)  | 45.23 MB beats(22.25%)  |
 | 125  | 12/19/23 | Easy       | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/?envType=study-plan-v2&envId=top-interview-150)                                                         | [Solution](./js/valid_palindrome.js)                                                                                    | 61ms beats(67.37%)  | 43.88 MB beats(93.15%)  |
+| 455  | 1/01/24  | Easy       | [Assign Cookies](https://leetcode.com/problems/assign-cookies/description/?envType=daily-question&envId=2024-01-01)                                                                   | [Solution](./js/assignCookies.js)                                                                                       | 161ms beats(5.48%)  | 43.98% MB beats(97.38%) |
