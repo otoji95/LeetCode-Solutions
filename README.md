@@ -46,14 +46,15 @@ Welcome to my LeetCode Challenges repository! I've embarked on a journey to shar
 | 1,238,438  | 12/17/23 |
 | 1,213,663  | 12/23/23 |
 | 1,191,892  | 01/01/24 |
+| 1,179,942  | 01/03/24 |
 
-Completed in Python (23)
+Completed in Python (24)
 
 Completed in JavaScript(39)
 
 ## Completed Challenges
 
-- Easy: 42
+- Easy: 43
 - Medium: 12
 - Hard: 1
 
@@ -86,6 +87,7 @@ Below is a record of problems I've solved, including notes on my thought process
 | 242  | 12/15/23 | Easy       | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)                                                                                                                          | [Solution](./python/valid_anagram.py)                                         | 51ms beats(71.87%)     | 16.80 MB beats(75.11%) |
 | 1913 | 12/17/23 | Easy       | [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/description/?envType=daily-question&envId=2023-12-18)                    | [Solution](./python/maximum_product_difference_between_two_pairs.py)          | 154ms beats(69.98%)    | 18 MB beats(8.58%)     |
 | 1496 | 12/23/23 | Easy       | [Path Crossing](https://leetcode.com/problems/path-crossing/submissions/?envType=daily-question&envId=2023-12-23)                                                                                  | [Solution](./python/path_crossing.py)                                         | 42 ms beats(30.80%)    | 17.48% beats(5.63%)    |
+| 268  | 1/3/24   | Easy       | [Missing Number](https://leetcode.com/problems/missing-number/description/)                                                                                                                        | [Solution](./python/missing_number.py)                                        | 109ms beats(96.01%)    | 18.76% beats(5.12%)    |
 
 ## Table Of Completed Problems : JavaScript
 
