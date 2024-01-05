@@ -47,14 +47,15 @@ Welcome to my LeetCode Challenges repository! I've embarked on a journey to shar
 | 1,213,663  | 12/23/23 |
 | 1,191,892  | 01/01/24 |
 | 1,179,942  | 01/03/24 |
+| 1,167,106  | 01/04/24 |
 
-Completed in Python (24)
+Completed in Python (25)
 
-Completed in JavaScript(39)
+Completed in JavaScript(40)
 
 ## Completed Challenges
 
-- Easy: 43
+- Easy: 44
 - Medium: 12
 - Hard: 1
 
@@ -131,3 +132,4 @@ Below is a record of problems I've solved, including notes on my thought process
 | 1913 | 12/27/23 | Easy       | [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/description/?envType=daily-question&envId=2023-12-18)       | [Solution](./js/maximumProductBetweenTwoPairs.js)                                                                       | 86ms beats(18.73%)  | 45.23 MB beats(22.25%)  |
 | 125  | 12/19/23 | Easy       | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/?envType=study-plan-v2&envId=top-interview-150)                                                         | [Solution](./js/valid_palindrome.js)                                                                                    | 61ms beats(67.37%)  | 43.88 MB beats(93.15%)  |
 | 455  | 1/01/24  | Easy       | [Assign Cookies](https://leetcode.com/problems/assign-cookies/description/?envType=daily-question&envId=2024-01-01)                                                                   | [Solution](./js/assignCookies.js)                                                                                       | 161ms beats(5.48%)  | 43.98% MB beats(97.38%) |
+| 561  | 01/04/23 | Easy       | [Array Partition](https://leetcode.com/problems/array-partition/description/)                                                                                                         | [Solution](./js/arrayPartition.js)                                                                                      | 108ms beats(29.16)  | 50.3 MB beats(8.75%)    |
